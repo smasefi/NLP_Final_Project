@@ -1,0 +1,17 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+kaleido
+beautifulsoup4
+requests
+nltk
+gensim
+vaderSentiment
+tqdm
+nbconvert
+jupyter
+ipykernel
